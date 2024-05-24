@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tutorial07</string>
+    <string name="camera">Camera</string>
+    <string name="email">Email</string>
+    <string name="web_browser">Web browser</string>
+    <string name="sms">SMS</string>
+    <string name="call">Call</string>
+    <string name="open_mainactivity">Open MainActivity</string>
+    <string name="todo">TODO</string>
+</resources>
